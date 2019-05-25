@@ -1,5 +1,7 @@
 # xiongxizhao.github.io
  electromagnetism spkou
+### tutor:寇谡鹏
+email:spkou@bnu.edu.cn
 
 ### courseware
 - [动生电动势](https://xiongxizhao.github.io/courseware/动生电动势.pdf)
