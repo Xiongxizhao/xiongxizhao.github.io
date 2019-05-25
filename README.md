@@ -2,4 +2,4 @@
  electromagnetism spkou
 
 ### courseware
-- [lecture 1](https://xiongxizhao.github.io/courseware/动生电动势.ppt)
+- [动生电动势](https://xiongxizhao.github.io/courseware/动生电动势.pdf)
