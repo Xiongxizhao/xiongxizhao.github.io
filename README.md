@@ -1,6 +1,6 @@
 # xiongxizhao.github.io
  electromagnetism spkou
-### tutor:寇谡鹏
+### class teacher:寇谡鹏
 email:spkou@bnu.edu.cn
 
 ### courseware
