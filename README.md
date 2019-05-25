@@ -21,3 +21,7 @@
 - [库仑定律](https://xiongxizhao.github.io/courseware/库仑定律.pdf)
 - [自感-2019](https://xiongxizhao.github.io/courseware/自感-2019.pdf)
 - [导体静电平衡问题](https://xiongxizhao.github.io/courseware/导体静电平衡问题.pdf)
+
+### reference
+- [电磁学作业](https://xiongxizhao.github.io/reference/电磁学作业.pdf)
+- [电磁学期中答案](https://xiongxizhao.github.io/reference/电磁学期中答案.pdf)
