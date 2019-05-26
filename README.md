@@ -1,7 +1,7 @@
 # xiongxizhao.github.io
  electromagnetism spkou
 # Electromagnetism
-### [寇谡鹏](http://physics.bnu.edu.cn/application/faculty/kousupeng/index.htm)professor
+### Professor:[寇谡鹏](http://physics.bnu.edu.cn/application/faculty/kousupeng/index.htm)
 email:spkou@bnu.edu.cn
 
 ### courseware
