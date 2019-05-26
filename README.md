@@ -30,7 +30,7 @@ email:spkou@bnu.edu.cn
 - [电磁学期中答案](https://xiongxizhao.github.io/reference/电磁学期中答案.pdf)
 
 ### reference books
-- [物理学大题典电磁学与电动力学](https://xiongxizhao.github.io/referencebook/[物理学大题典]电磁学与电动力学.pdf)
-- [Jackson J.D. Classical electrodynamics](https://xiongxizhao.github.io/referencebook/JacksonJ.D.Classicalelectrodynamics.pdf)
+- [物理学大题典电磁学与电动力学](https://xiongxizhao.github.io/referencebook/物理学大题典电磁学与电动力学.pdf)
+- [Jackson J.D. Classical electrodynamics](https://xiongxizhao.github.io/referencebook/JacksonClassicalelectrodynamics.pdf)
 - [电磁学千题解张之翔](https://xiongxizhao.github.io/referencebook/电磁学千题解张之翔.pdf)
 - [电磁学赵凯华](https://xiongxizhao.github.io/referencebook/电磁学赵凯华.pdf)
