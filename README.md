@@ -5,6 +5,9 @@
 email:spkou@bnu.edu.cn
 
 ### courseware
+- [暂态过程-2019](https://xiongxizhao.github.io/courseware/暂态过程-2019.pdf)
+- [磁场能-2019](https://xiongxizhao.github.io/courseware/磁场能-2019.pdf)
+- [互感-2019](https://xiongxizhao.github.io/courseware/互感-2019.pdf)
 - [动生电动势](https://xiongxizhao.github.io/courseware/动生电动势.pdf)
 - [安培回路定理](https://xiongxizhao.github.io/courseware/安培回路定理.pdf)
 - [磁场对载流导线的作用](https://xiongxizhao.github.io/courseware/磁场对载流导线的作用.pdf)
