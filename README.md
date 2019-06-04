@@ -5,6 +5,9 @@
 email:spkou@bnu.edu.cn
 
 ### courseware
+- [磁记录](https://xiongxizhao.github.io/courseware/磁记录-2019.pdf)
+- [铁磁质](https://xiongxizhao.github.io/courseware/铁磁质-2019.pdf)
+- [磁路和磁能](https://xiongxizhao.github.io/courseware/磁路和磁能-2019.pdf)
 - [磁化和磁化强度](https://xiongxizhao.github.io/courseware/磁化和磁化强度-2019.pdf)
 - [暂态过程](https://xiongxizhao.github.io/courseware/暂态过程-2019.pdf)
 - [磁场能](https://xiongxizhao.github.io/courseware/磁场能-2019.pdf)
