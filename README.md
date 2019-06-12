@@ -5,6 +5,8 @@
 email:spkou@bnu.edu.cn
 
 ### courseware
+- [交流电复数法](https://xiongxizhao.github.io/courseware/交流电复数法-2019.pdf)
+- [交流电及其简单电路](https://xiongxizhao.github.io/courseware/交流电及其简单电路-2019.pdf)
 - [磁记录](https://xiongxizhao.github.io/courseware/磁记录-2019.pdf)
 - [铁磁质](https://xiongxizhao.github.io/courseware/铁磁质-2019.pdf)
 - [磁路和磁能](https://xiongxizhao.github.io/courseware/磁路和磁能-2019.pdf)
