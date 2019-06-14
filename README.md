@@ -5,6 +5,7 @@
 email:spkou@bnu.edu.cn
 
 ### courseware
+- [麦克斯韦方程](https://xiongxizhao.github.io/courseware/麦克斯韦方程-2019.pdf)
 - [交流电复数法](https://xiongxizhao.github.io/courseware/交流电复数法-2019.pdf)
 - [交流电及其简单电路](https://xiongxizhao.github.io/courseware/交流电及其简单电路-2019.pdf)
 - [磁记录](https://xiongxizhao.github.io/courseware/磁记录-2019.pdf)
